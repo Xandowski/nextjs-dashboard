@@ -2,7 +2,9 @@
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-- [X] - Chapter One: Getting Started
-- [ ] - Chapter Two: CSS Styling
+- [X] - Chapter 1: Getting Started
+- [X] - Chapter 2: CSS Styling
+- [X] - Chapter 3: Optimizing Fonts and Images
+- [ ] - Chapter 4: Creating Layouts and Pages
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
