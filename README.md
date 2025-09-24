@@ -3,7 +3,7 @@
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
 <div style="background: #ddd; width: 100%; border-radius: 5px;">
-  <div style="background: #4caf50; width: 56%; padding: 5px 0; border-radius: 5px; padding-left: 14px">Progress: 56%</div>
+  <div style="background: #4caf50; width: 63%; padding: 5px 0; border-radius: 5px; padding-left: 14px">Progress: 63%</div>
 </div>
 
 </br>
@@ -17,7 +17,7 @@ This is the starter template for the Next.js App Router Course. It contains the 
 - [X] - Chapter 07: Fetching Data
 - [X] - Chapter 08: Static and Dynamic Rendering
 - [X] - Chapter 09: Streaming
-- [ ] - Chapter 10: Partial Prerendering
+- [X] - Chapter 10: Partial Prerendering
 - [ ] - Chapter 11: Adding Search and Pagination
 - [ ] - Chapter 12: Mutating Data
 - [ ] - Chapter 13: Handling Erros
